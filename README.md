@@ -1,6 +1,6 @@
 <div align="center">
 
-![Medinote](./medinote_logo.png){: width="400"}
+<img src="medinote_logo.png" width="400" alt="Medinote"/>
 
 ---
 <details>
