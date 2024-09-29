@@ -1,5 +1,4 @@
 <div align="center">
-
 ![Medinote](./medinote_logo.png){: width="400"}
 
 ---
