@@ -7,16 +7,18 @@
   <summary><strong>&nbsp;Table of Contents</strong></summary>
 
 &nbsp;  
-[About The Project](#about-the-project)<br/>
+[About Project](#about-project)<br/>
 [Team Members](#team-members)<br/>
 [Built With](#built-with)<br/>
+<!--
 [Usage](#usage)<br/>
 [Contact](#contact)<br/>
+-->
 </details>
 
 </div>
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT PROJECT -->
 ## About Project
 Project Duration: February 05, 2024 - August 31, 2024
 
@@ -40,7 +42,7 @@ Medinote는 의대생들을 위한 STT 서비스입니다. 강의를 녹화한 �
 ## Built With
 
 ![Java](https://img.shields.io/badge/Java-17.0.9-007496?style=for-the-badge)  
-![Spring_boot](https://img.shields.io/badge/Springboot-3.2.7-6DB33F?style=for-the-badge&logo=amazonec2&logoColor=61DAFB)  
+![Spring_boot](https://img.shields.io/badge/Springboot-3.2.7-6DB33F?style=for-the-badge&logo=springboot&logoColor=6DB33F)  
 ![EC2](https://img.shields.io/badge/ec2-deploy-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-18.2.5-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
