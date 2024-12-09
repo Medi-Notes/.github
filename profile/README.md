@@ -38,6 +38,9 @@ Medinote는 의대생들을 위한 STT 서비스입니다. 강의를 녹화한 �
 
 &nbsp;
 
+## Architecture
+![alt text](./archi.png)
+
 <!-- Built with -->
 ## Built With
 
